@@ -1,15 +1,11 @@
-# Interactive Image Filters and Diameter Measurement
+# Vision Filter
 
-## Project Title
-
-**Interactive Image Filters and Diameter Measurement**
-
-## Project Members
+## Team Members
 
 * Samantha W (23PW25)
 * Shree Sindhiya Harshini K (23PW28)
 
-## Abstract
+## OverView
 
 This project demonstrates basic image processing techniques using MATLAB. It allows users to apply various filters—such as blurring, motion blur, edge detection, and grayscale conversion—to images and observe their effects. Additionally, it provides functionality to measure the diameter of objects within an image using MATLAB's image analysis tools.
 
